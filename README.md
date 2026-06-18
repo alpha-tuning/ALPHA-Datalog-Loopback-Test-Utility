@@ -1,4 +1,5 @@
 # Alpha / One ROM Datalog Link Validator
+Download: https://limewire.com/d/alDRX#6Lf8xsMOfw
 
 A small Windows utility for verifying that a datalog UART adapter can transmit and receive correctly before troubleshooting Alpha or One ROM datalogging.
 
